@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content_type" content="text//html;charset=UTF-8">
+<title>the introduce</title>
+<base url="file:/D:/java2">
+</head>
+<body background="/index.jpg" text="#000000" topmargin="10" leftmargin="10" rightmargin="10">
+锄禾日当午<br>
+汗滴禾下土
+</body>
+</html>
